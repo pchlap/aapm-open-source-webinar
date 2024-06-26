@@ -10,6 +10,8 @@ Presented by: [Phil Chlap](https://github.com/pchlap)
 
 Seminar slides are available [here](https://docs.google.com/presentation/d/1P0teuisEsj-0L0Zi-ad0XgvpcZ6hWFsfdi4BE5O1sqA/edit#slide=id.gc6f9e470d_0_0).
 
+**You can watch a recording of the seminar [here](https://www.aapm.org/meetings/webinars/GRSICWebinarSeriesNo5.asp).**
+
 ## Open-source tools
 
 | Tool                         | Repository                                                                                | Documentation                                                              |
@@ -49,7 +51,7 @@ Chin, V., Finnegan, R. N., Chlap, P., Otton, J., Haidar, A., Holloway, L., Thwai
 
 ### nnUNet
 
-Isensee, F., Jaeger, P. F., Kohl, S. A. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. *Nature Methods_, *18*(2), 203–211. <https://doi.org/10.1038/s41592-020-01008-z>
+Isensee, F., Jaeger, P. F., Kohl, S. A. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. *Nature Methods_,*18*(2), 203–211. <https://doi.org/10.1038/s41592-020-01008-z>
 
 ### TotalSegmentator
 
